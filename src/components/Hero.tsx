@@ -22,7 +22,7 @@ export default function Hero() {
 
           <div className="flex justify-center gap-6 mb-12">
             <a
-              href="https://github.com"
+              href="https://github.com/RohanRao143"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white/10 hover:bg-white/20 backdrop-blur-sm rounded-full transition-all duration-300 hover:scale-110"

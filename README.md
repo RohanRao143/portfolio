@@ -1,3 +1,5 @@
 # portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/RohanRao143/portfolio)
+Hello Fellow Techies,
+
+I am a software engineer, Passionate about learning technologies that will contribute and make this world a better place.

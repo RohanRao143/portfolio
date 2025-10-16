@@ -2,10 +2,10 @@ import { Code2, Rocket, Users, Award } from 'lucide-react';
 
 export default function Summary() {
   const stats = [
-    { icon: Code2, label: 'Years Experience', value: '5+' },
-    { icon: Rocket, label: 'Projects Completed', value: '50+' },
-    { icon: Users, label: 'Happy Clients', value: '30+' },
-    { icon: Award, label: 'Awards Won', value: '10+' },
+    { icon: Code2, label: 'Years Experience', value: '6+' },
+    { icon: Rocket, label: 'Professional/Personal Projects Contributed', value: '10+/15+' },
+    { icon: Users, label: 'Work Clients', value: '30+' },
+    { icon: Award, label: 'Certifications or Endorsements', value: '5+' },
   ];
 
   return (

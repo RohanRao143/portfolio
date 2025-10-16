@@ -13,10 +13,13 @@ export default function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8 animate-fadeIn">
             <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-tight">
-              Software Engineer
+              I'm Rohan
             </h1>
-            <p className="text-xl md:text-2xl text-slate-300 mb-8 leading-relaxed">
+            {/* <p className="text-xl md:text-2xl text-slate-300 mb-8 leading-relaxed">
               Crafting elegant solutions to complex problems through clean code and innovative thinking
+            </p> */}
+            <p className="text-xl md:text-2xl text-slate-300 mb-8 leading-relaxed">
+              For each problem statement there are million possible solutions.
             </p>
           </div>
 
